@@ -3,7 +3,7 @@
 ### Supervisors: Professor Rui Paulo Nóbrega Figueira and Auxiliary Researcher Isabel Marques
 ### MSc in Green Data Science, ISA, Portugal
 
-Files in the repository:
-- 
+Abstract:
 
-About the project:
+Files in the repository:
+
